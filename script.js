@@ -139,7 +139,7 @@ const questions = [
             { text: "开车", correct: false },
             { text: "骑自行车", correct: true }, // 正确答案
             { text: "坐飞机", correct: false },
-            { text: "乘坐公共汽", correct: false }
+            { text: "乘坐公共汽车", correct: false }
         ]
     },
     {

@@ -18,15 +18,7 @@ const questions = [
             { text: "操作重型机械", correct: false }
         ]
     },
-    {
-        question: "哪种技术能够通过分析历史数据和传感器数据，预测设备何时可能会发生故障？",
-        answers: [
-            { text: "自然语言处理（NLP）", correct: false },
-            { text: "机器学习", correct: true }, // 正确答案
-            { text: "虚拟现实（VR）", correct: false },
-            { text: "图像识别", correct: false }
-        ]
-    },
+   
     {
         question: "在智能仓储管理中，AI最常用于哪项任务？",
         answers: [
@@ -36,15 +28,7 @@ const questions = [
             { text: "财务报表生成", correct: false }
         ]
     },
-    {
-        question: "以下哪项不是AI在工厂应用中的优势？",
-        answers: [
-            { text: "提高生产效率", correct: false },
-            { text: "预测市场需求", correct: false },
-            { text: "降低设备维护成本", correct: false },
-            { text: "增加人工成本", correct: true } // 正确答案
-        ]
-    },
+    
     {
         question: "在生产线质量检测中，哪种AI技术通常会用于识别缺陷？",
         answers: [
